@@ -4,5 +4,5 @@ morea_id: footer
 morea_type: footer
 ---
 
-Example Name | Example Department | Example University
-email@example.com
+Mario Pineda  | Queen Elizabeth High School
+
